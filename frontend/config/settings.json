@@ -1,0 +1,18 @@
+{
+		"play_be_net_url": "http://play.befive.info/playbe_api/index.php",
+			"show_splash_and_title": true,
+				"show_company_logo_flash": true,
+					"game_attraction_sound": true,
+						"mute_sound": "false",
+							"game_difficulty": "normal",
+								"price_decale": 0,
+									"free_play": false,
+										"test_switch": false,
+											"initial_credits": 1000,
+												"replenishment_credits": 500,
+													"replenishment_max": 1000,
+														"replenishment_every": 600,
+															"adProvider_url": "",
+																"use_adBanner": true,
+																	"serial_number": "BE-BJ-0001"
+}
